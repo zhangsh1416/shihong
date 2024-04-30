@@ -21,7 +21,7 @@
 title: Shihong's Blog
 email: sh.zhang@tum.de
 #description: >-
-baseurl: "shihong" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
@@ -34,6 +34,7 @@ logo: "/_assets/images/android-chrome-96x96.png"
 masthead_title: "Shihong's Blog"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 include: ["_pages", "_assets"]
@@ -88,7 +89,6 @@ defaults:
       type: pages
     values:
       layout: single
-pligins: jekyll-include-cache
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
