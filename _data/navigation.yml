@@ -1,0 +1,20 @@
+# main links
+main:
+  - #title: "Quick-Start Guide"
+    #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Posts by categories"
+    url: /categories/
+  - title: "Theory of DL"
+    url: "/theory_of_dl/"
+  - title: "Applications of DL"
+    url: "/applications_of_dl/"
+  - title: "About me"
+    url: "/author"
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+sidebar:
+
+  #- title: "Computer Vision"
+  #  url: "/application/computer_vision/"
