@@ -42,7 +42,7 @@ include: ["_pages", "_assets"]
 date_format: "%Y-%m-%d"
 author:
   name: "Shihong Zhang"
-  avatar: "/_assets/images/bio-photo.jpg"
+  avatar: "/_assets/images/3b92c8ba6667f33807e3015cff6443d.jpg"
   bio: "" # Note: Markdown is allowed
   location: "Munich Germany"
   links:
