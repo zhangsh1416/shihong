@@ -27,7 +27,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 # Build settings
 #theme: minimal-mistakes-jekyll
-#remote_theme: "mmistakes/minimal-mistakes@4.25.1"
+remote_theme: "mmistakes/minimal-mistakes@4.25.1"
 minimal_mistakes_skin: "air"
 teaser: "/_assets/images/3953273590_704e3899d5_m.jpg"
 logo: "/_assets/images/logo.jpg"
