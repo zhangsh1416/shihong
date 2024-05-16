@@ -27,17 +27,22 @@ twitter_username: jekyllrb
 github_username:  jekyll
 # Build settings
 #theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes@4.25.1"
-minimal_mistakes_skin: dark
+#remote_theme: "mmistakes/minimal-mistakes@4.25.1"
+minimal_mistakes_skin: "air"
 teaser: "/_assets/images/3953273590_704e3899d5_m.jpg"
-logo: "/_assets/images/android-chrome-96x96.png"
+logo: "/_assets/images/logo.jpg"
 masthead_title: "Shihong's Blog"
+sass:
+  sass_dir: _sass        # Sass文件所在的目录
+  style: compressed      # 压缩输出的CSS文件
+exclude:
+  - vendor
 plugins:
   - jekyll-feed
   - jekyll-include-cache
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-include: ["_pages", "_assets"]
+include: ["_pages", "_assets","_sass","assets"]
 #breadcrumbs: true  # disabled by default
 date_format: "%Y-%m-%d"
 author:
