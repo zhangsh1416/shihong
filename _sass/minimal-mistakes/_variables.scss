@@ -40,16 +40,16 @@ $type-size-3: 1.563em !default; // ~25.008px
 $type-size-4: 1.25em !default; // ~20px
 $type-size-5: 1em !default; // ~16px
 $type-size-6: 0.65em !default; // ~12px
-$type-size-7: 0.5875em !default; // ~11px
+$type-size-7: 0.5675em !default; // ~11px 修改content table的字体大小
 $type-size-8: 0.525em !default; // ~10px
 
-/* headline scale */
-$h-size-1: 1.563em !default; // ~25.008px
-$h-size-2: 1.25em !default; // ~20px
-$h-size-3: 1.125em !default; // ~18px
-$h-size-4: 1.0625em !default; // ~17px
-$h-size-5: 1.03125em !default; // ~16.5px
-$h-size-6: 1em !default; // ~16px
+/* headline scale 此处修改各个段落文字的大小*/
+$h-size-1: 1.263em !default; // ~25.008px
+$h-size-2: 0.95em !default; // ~20px
+$h-size-3: 0.7125em !default; // ~18px
+$h-size-4: 0.70625em !default; // ~17px
+$h-size-5: 0.703125em !default; // ~16.5px
+$h-size-6: 0.7em !default; // ~16px
 
 /*
    Colors
@@ -148,7 +148,7 @@ $small: 600px !default;
 $medium: 768px !default;
 $medium-wide: 900px !default;
 $large: 1024px !default;
-$x-large: 1480px !default;
+$x-large: 1380px !default;//修改body的显示宽度
 $max-width: $x-large !default;
 
 /*
