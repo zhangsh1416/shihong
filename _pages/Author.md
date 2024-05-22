@@ -9,11 +9,12 @@ header:
 toc: true
 toc_label: "Content"
 toc_icon: "file"
+toc_sticky: true
 permalink: /author
 ---
 # Shihong Zhang
 
-📧 sh.zhang@tum.de | 📞 +49 15204777456 | ![GitHub](https://img.shields.io/badge/-zhangsh1416-181717?style=social&logo=github) | [Website](https://zhangsh1416.github.io/shihong/author)
+📧 <a href="mailto: sh.zhzang@tum.de" style="text-decoration:none;">  sh.zhang@tum.de </a> | 📞 +49 15204777456 | ![GitHub](https://img.shields.io/badge/-zhangsh1416-181717?style=social&logo=github) | 🌐 <a href="https://zhangsh1416.github.io/shihong/author" style="text-decoration:none;">Personal Website</a>
 
 ## Education
 
