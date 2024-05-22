@@ -4,7 +4,7 @@ theme: Single
 title: Shihong Zhang
 excerpt: "Welcome to my personal page where I share insights about my academic and professional journey."
 header:
-  overlay_image: "/_assets/images/unsplash-image-1.jpg"
+  overlay_image: "/_assets/images/giuseppe-b-Vk0DZl-M1_U-unsplash.jpg"
   overlay_filter: 0.3
 toc: true
 toc_label: "Content"
