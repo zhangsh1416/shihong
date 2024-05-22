@@ -90,12 +90,18 @@ defaults:
       toc_label: "Content"
       toc_icon: "file"
       toc_sticky: true
+      header:
+        overlay_image: "/_assets/images/christian-waske-Rb4HydXa2kE-unsplash.jpg"
+        overlay_filter: 0.3
   # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
+      header:
+        overlay_image: "/_assets/images/eugene-zhyvchik-UXteIizxbWo-unsplash.jpg"
+        overlay_filter: 0.3
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
