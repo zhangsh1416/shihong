@@ -5,6 +5,7 @@ categories: Components_of_NN
 permalink: /theory_of_dl/components_of_nn/convolutional_layer
 ---
 
+
 ## 3.2.2.4. Total Loss
 
 The total loss function is composed of the three losses mentioned above, with the formula:
