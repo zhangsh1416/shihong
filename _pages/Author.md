@@ -14,7 +14,7 @@ permalink: /author
 ---
 # Shihong Zhang
 
-📧 <a href="mailto: sh.zhzang@tum.de" style="text-decoration:none;">  sh.zhang@tum.de </a> | 📞 +49 15204777456 | ![GitHub](https://img.shields.io/badge/-zhangsh1416-181717?style=social&logo=github) | 🌐 <a href="https://zhangsh1416.github.io/shihong/author" style="text-decoration:none;">Personal Website</a>
+📧 <a href="mailto: sh.zhzang@tum.de" style="text-decoration:none;">  sh.zhang@tum.de </a> | 📞 +49 15204777456 | <a href="https://github.com/zhangsh1416" style="text-decoration:none;"> ![GitHub](https://img.shields.io/badge/-zhangsh1416-181717?style=social&logo=github)</a> | 🌐 <a href="https://zhangsh1416.github.io/shihong/author" style="text-decoration:none;">Personal Website</a>
 
 ## Education
 
