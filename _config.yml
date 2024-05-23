@@ -17,12 +17,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-permalink: /:path/
 title: Shihong's Blog
 email: sh.zhang@tum.de
 #description: >-
 baseurl: "shihong" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: /:path/
 twitter_username:
 github_username:  zhangsh1416
 # Build settings
