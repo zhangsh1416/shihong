@@ -4,6 +4,8 @@ main:
     #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Posts by categories"
     url: /categories/
+  - title: "Deep Learning"
+    url: "/deep_learning"
   - title: "Theory of DL"
     url: "/theory_of_dl/"
   - title: "Applications of DL"
