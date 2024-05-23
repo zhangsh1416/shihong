@@ -38,12 +38,12 @@ $type-size-1: 2.441em !default; // ~39.056px
 $type-size-2: 1.953em !default; // ~31.248px
 $type-size-3: 1.563em !default; // ~25.008px
 $type-size-4: 1.25em !default; // ~20px
-$type-size-5: 1em !default; // ~16px
-$type-size-6: 0.65em !default; // ~12px
-$type-size-7: 0.5675em !default; // ~11px 修改content table的字体大小
-$type-size-8: 0.525em !default; // ~10px
+$type-size-5: 1em !default; // ~16px 底部跳转link字体大小
+$type-size-6: 0.65em !default; // ~12px 正文link的字体大小
+$type-size-7: 0.5675em !default; // ~11px 修改content table title的字体大小
+$type-size-8: 0.525em !default; // ~10px  修改content table的字体大小
 
-/* headline scale 此处修改各个段落文字的大小*/
+/* headline scale 此处修改各个段落文字的大小,即md中##定义的字体大小*/
 $h-size-1: 1.263em !default; // ~25.008px
 $h-size-2: 0.95em !default; // ~20px
 $h-size-3: 0.7125em !default; // ~18px
