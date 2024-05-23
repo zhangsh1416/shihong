@@ -14,7 +14,7 @@ toc_sticky: true
   {% for subcategory in category.subcategories %}
   - {{ subcategory.title }}
     {% for link in subcategory.links %}
-    - [{{ link.title }}]({{ link.url }})
+    - [{{ link.title }}]({{ link.url | relative_url }})
     {% endfor %}
   {% endfor %}
 {% endfor %}
