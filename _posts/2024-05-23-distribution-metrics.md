@@ -58,14 +58,14 @@ where <img src="https://latex.codecogs.com/svg.latex?(\mu_r,\Sigma_r)" alt="Mean
 
 | Feature                      | <span style="color: #2980B9;">KL Divergence</span>                              | <span style="color: #E67E22;">FID (Frechet Inception Distance)</span>             |
 |------------------------------|--------------------------------------------|---------------------------------------------|
-| ***Symmetry***               | Non-symmetric                              | Symmetric                                   |
-| ***Sensitivity to Support*** | Highly sensitive to zero probabilities     | Robust to support mismatches                |
-| ***Measures***               | Relative entropy                           | Distance in feature space                   |
-| ***Application Domain***     | Information theory, model optimization     | Generative model evaluation                 |
-| ***Computation***            | Direct probability comparison              | Feature-based comparison using pre-trained model |
-| ***Typical Uses***           | Variational Autoencoders, Bayesian methods | GAN evaluation, image quality assessment    |
-| ***Robustness***             | Can be unstable with non-overlapping supports | Robust to noise and minor variations       |
-| ***Quality vs Diversity***   | Less effective in capturing diversity      | Captures both quality and diversity         |
+| ***Symmetry***               | <span style="color: #2980B9;">Non-symmetric</span>                              | <span style="color: #E67E22;">Symmetric</span>                                   |
+| ***Sensitivity to Support*** | <span style="color: #2980B9;">Highly sensitive to zero probabilities</span>     | <span style="color: #E67E22;">Robust to support mismatches</span>                |
+| ***Measures***               | <span style="color: #2980B9;">Relative entropy</span>                           | <span style="color: #E67E22;">Distance in feature space</span>                   |
+| ***Application Domain***     | <span style="color: #2980B9;">Information theory, model optimization</span>     | <span style="color: #E67E22;">Generative model evaluation</span>                 |
+| ***Computation***            | <span style="color: #2980B9;">Direct probability comparison</span>              | <span style="color: #E67E22;">Feature-based comparison using pre-trained model</span> |
+| ***Typical Uses***           | <span style="color: #2980B9;">Variational Autoencoders, Bayesian methods</span> | <span style="color: #E67E22;">GAN evaluation, image quality assessment</span>    |
+| ***Robustness***             | <span style="color: #2980B9;">Can be unstable with non-overlapping supports</span> | <span style="color: #E67E22;">Robust to noise and minor variations</span>       |
+| ***Quality vs Diversity***   | <span style="color: #2980B9;">Less effective in capturing diversity</span>      | <span style="color: #E67E22;">Captures both quality and diversity</span>         |
 
 # Conclusion
 
