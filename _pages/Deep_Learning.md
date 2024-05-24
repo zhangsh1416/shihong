@@ -22,7 +22,7 @@ toc_sticky: true
       {{ subcategory_title | markdownify }}
       <ul class="links">
         {% for link in subcategory.links %}
-        <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+         <li><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
         {% endfor %}
       </ul>
     </div>
