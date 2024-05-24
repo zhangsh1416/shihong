@@ -38,6 +38,10 @@ navigation:
             url: "/theory/common_issues/overfitting"
           - title: "Gradient Vanishing/Explosion"
             url: "/theory/common_issues/gradient_vanishing_explosion"
+      - title: "Evaluation and Deployment"
+        links:
+          - title: "Distribution Metrics"
+            url: "/theory/evaluation_and_deployment/distribution_metrics"
   - title: "Applications"
     subcategories:
       - title: "Computer Vision"
