@@ -42,6 +42,10 @@ navigation:
         links:
           - title: "Distribution Metrics"
             url: "/theory/evaluation_and_deployment/distribution_metrics"
+      - title: "Mathematics behind of Deep Learning"
+        links:
+          - title: "Estimating Model Parameters"
+            url: "/theory/mathematics_behind_of_dl/estimating_model_parameters"
   - title: "Applications"
     subcategories:
       - title: "Computer Vision"

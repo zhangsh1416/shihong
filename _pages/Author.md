@@ -31,7 +31,7 @@ permalink: /author
 ## Skills
 
 - **Programming Languages:** Python, VBA, C++, C
-- **Technical Tools:** Git, Pandas, NumPy, Docker, Jupyter Notebook, PyTorch, Jekyll, LaTex
+- **Technical Tools:** Git, PyTorch, Pandas, NumPy, Docker, Jupyter Notebook, Jekyll, LaTex, CSS, HTML, CMake
 - **Languages:** Chinese (Native), English (Fluent), German (Intermediate)
 
 ## Research Experience
