@@ -514,7 +514,7 @@
 
   .nav__title {
     color: #fff;
-    font-size: $type-size-6;
+    font-size: $type-size-6;//修改目录标题字体大小
     background: $primary-color;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
@@ -544,6 +544,7 @@
     font-weight: bold;
     line-height: 1.5;
     border-bottom: 1px solid $border-color;
+    font-size: 11.5px; // 修改目录字体大小
 
     &:hover {
       color: $text-color;
