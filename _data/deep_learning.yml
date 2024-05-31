@@ -46,6 +46,8 @@ navigation:
         links:
           - title: "Estimating Model Parameters"
             url: "/theory/mathematics_behind_of_dl/estimating_model_parameters"
+          - title: "KL Divergence"
+            url: "/theory/mathematics_behind_of_dl/kl_divergence"
   - title: "Applications"
     subcategories:
       - title: "Computer Vision"
