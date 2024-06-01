@@ -48,6 +48,8 @@ navigation:
             url: "/theory/mathematics_behind_of_dl/estimating_model_parameters"
           - title: "KL Divergence"
             url: "/theory/mathematics_behind_of_dl/kl_divergence"
+          - title: "Normalizing Flows"
+            url: "/theory/mathematics_behind_of_dl/normalizing_flows"
   - title: "Applications"
     subcategories:
       - title: "Computer Vision"
