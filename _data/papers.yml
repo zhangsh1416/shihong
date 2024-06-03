@@ -1,0 +1,19 @@
+navigation:
+  - title: "Papers"
+    subcategories:
+      - title: "Fast Diffusion Models"
+        links:
+          - title: "UniPC: A Unified Predictor-Corrector Framework for Fast Sampling of Diffusion Models"
+            description: "This is a description of Paper 1."
+            abstract: "This is the abstract of Paper 1."
+            url: "/papers/fast_diffusion_models/unipc"
+          - title: "Fast Sampling of Diffusion Models via Operator Learning"
+            description: "This is a description of Paper 2."
+            abstract: "This is the abstract of Paper 2."
+            url: "/papers/fast_diffusion_models/dsno"
+          - title: "One-Step Diffusion Distillation via Deep Equilibrium Models"
+            description: "This is a description of Paper 3."
+            url: "/papers/fast_diffusion_models/get"
+          - title: "DeepCache: Accelerating Diffusion Models for Free"
+            description: "This is a description of Paper 4."
+            url: "/papers/fast_diffusion_models/deepcache"

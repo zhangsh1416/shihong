@@ -6,6 +6,8 @@ main:
     url: /categories/
   - title: "Deep Learning"
     url: "/deep_learning"
+  - title: "Papers"
+    url: "/papers"
   - title: "Theory of DL"
     url: "/theory_of_dl/"
   - title: "Applications of DL"
