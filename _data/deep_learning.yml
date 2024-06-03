@@ -50,6 +50,10 @@ navigation:
             url: "/theory/mathematics_behind_of_dl/kl_divergence"
           - title: "Normalizing Flows"
             url: "/theory/mathematics_behind_of_dl/normalizing_flows"
+      - title: "Common Python Libraries"
+        links:
+          - title: "Common Python Libraries"
+            url: "/theory/common_python_libraries/common_python_libraries"
   - title: "Applications"
     subcategories:
       - title: "Computer Vision"

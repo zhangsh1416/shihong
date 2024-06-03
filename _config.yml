@@ -20,7 +20,7 @@
 title: Shihong's Blog
 email: sh.zhang@tum.de
 #description: >-
-baseurl: "shihong" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:path/
 twitter_username:
