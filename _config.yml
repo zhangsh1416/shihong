@@ -92,7 +92,7 @@ defaults:
       toc_sticky: true
       header:
         show_overlay_excerpt: false
-        overlay_image: "/_assets/images/christian-waske-Rb4HydXa2kE-unsplash.jpg"
+        overlay_image: "/_assets/images/eugene-zhyvchik-UXteIizxbWo-unsplash.jpg"
         overlay_filter: 0.3
   # _pages
   - scope:
@@ -101,7 +101,7 @@ defaults:
     values:
       layout: single
       header:
-        overlay_image: "/_assets/images/eugene-zhyvchik-UXteIizxbWo-unsplash.jpg"
+        overlay_image: "/_assets/images/christian-waske-Rb4HydXa2kE-unsplash.jpg"
         overlay_filter: 0.3
 # Exclude from processing.
 # The following items will not be processed, by default.
