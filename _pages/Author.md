@@ -12,67 +12,91 @@ toc_icon: "file"
 toc_sticky: true
 permalink: /author
 ---
+
 # Shihong Zhang
 
 📧 <a href="mailto: sh.zhang@tum.de" style="text-decoration:none;">  sh.zhang@tum.de </a> | 📞 +49 15204777456 | <a href="https://github.com/zhangsh1416" style="text-decoration:none;"> ![GitHub](https://img.shields.io/badge/-zhangsh1416-181717?style=social&logo=github)</a> | 🌐 <a href="https://zhangsh1416.github.io/shihong/author" style="text-decoration:none;">Personal Website</a>
 
 ## Education
 
-### Technical University of Munich – School of CIT, Munich, Germany
-**Master of Science in Robotics, Cognition, Intelligence**  
-*04.2022 - present*  
-- Selected Coursework: Introduction to Deep Learning; Machine Learning; Computer Vision II: Multiple View Geometry; Computer Vision III: Detection, Segmentation, and Tracking
+### Technical University of Munich – School of CIT
+*Munich, Germany*  
+*04.2022 - Present*  
+**Master of Science in Robotics, Cognition, Intelligence**
 
-### Jilin University, Changchun, China
-**Bachelor of Science in Mechanical Engineering**  
+- **Selected Coursework**: 
+  - Introduction to Deep Learning
+  - Computer Vision II: 3D Reconstruction
+  - Machine Learning
+  - Computer Vision III: Detection, Segmentation, and Tracking
+
+### Jilin University
+*Changchun, China*  
 *09.2016 - 06.2020*  
-- Thesis: *Design and Dynamics Analysis of Auxiliary Belt Transmission System of HongQi*
+**Bachelor of Science in Mechanical Engineering**
 
-## Skills
-
-- **Programming Languages:** Python, VBA, C++, C
-- **Technical Tools:** Git, PyTorch, Pandas, NumPy, Docker, Jupyter Notebook, Jekyll, LaTex, CSS, HTML, CMake
-- **Languages:** Chinese (Native), English (Fluent), German (Intermediate)
+- **Thesis**: Design and Dynamics Analysis of Auxiliary Belt Transmission System of HongQi (1.0)
 
 ## Research Experience
 
-### Machine Learning in Crowd Modeling and Simulation (TUM Info5)
-**Praktikum**  
-*04.2024 - present*  
-- Engineered an advanced crowd simulation tool in Python, leveraging cellular automaton to track realistic crowd parameters such as true velocity and flow rate. Implemented a GUI for visualizing scenarios, and designed highly modular code to facilitate simulation across diverse environments and movement models, with interfaces prepared for future environmental extensions.
-- Orchestrated sophisticated crowd simulations with Vadere and the SIR model, accurately modeling infectious disease spread, which informed public health strategies by providing predictive insights on transmission dynamics. Produced meaningful outcomes that reflect real-world conditions, enhancing understanding of disease spread dynamics.
+### Fast Diffusion Models
+*Seminar, TUM Info16 - Computer Aided Medical Procedures*  
+*04.2024 - Present*
 
-### End to End Autonomous Driving (TUM Info6)
-**Praktikum**  
-*10.2023 - 03.2024*  
-- Architected a high-performance end-to-end autonomous driving system using Python and the PyTorch framework to process real-time images from a vehicle's front-facing camera and output control commands, including steering angle, throttle, and brake. Crafted an innovative neural network, incorporating YOLOv8, to heighten detection accuracy, enhancing the reliability of the autonomous driving system. This resulted in a robust and reliable autonomous driving system capable of making precise decisions based on visual inputs.
+- Conducted an in-depth review of recent papers on fast diffusion models, summarizing key advancements.
+- **Key Topics Covered**:
+  - **UniPC**: A plugin framework to enhance other samplers.
+  - **DSNO**: Achieves one-step sampling using Fourier convolution for temporal information capture.
+  - **GET**: Utilizes a DEQ model for distillation to enable one-step sampling.
+- Summarized findings in a detailed blog on [BayernCollab DLMA: Fast Diffusion Models](https://collab.dvb.bayern/display/TUMdlma/Fast+diffusion+models#Fastdiffusionmodels-GET).
 
-### Semantic Segmentation with Self-Supervised Learning (TUM CV3)
-**Course Project**  
-*04.2023 - 09.2023*  
+### Machine Learning in Crowd Modeling and Simulation
+*Practical Training, TUM Info5 - Scientific Computing*  
+*04.2024 - Present*
+
+- Trained a **diffusion model** using **PyTorch** to generate pedestrian trajectories, based on data collected from the MI building at TUM. The generated trajectories perfectly conform to the building's layout.
+- Engineered a **Python**-based crowd simulation tool utilizing cellular automaton to accurately track crowd parameters such as true velocity and flow rate. Developed a GUI for scenario visualization and designed highly modular code to support diverse environments.
+- Orchestrated advanced crowd simulations with **Vadere** and integrated the SIR model to precisely model infectious disease spread, demonstrating the tool's capability in realistic and complex scenarios.
+
+### End to End Autonomous Driving
+*Practical Training, TUM Info6 - Robotics, AI and Real-time Systems*  
+*10.2023 - 03.2024*
+
+- Trained two neural networks using **PyTorch** for end-to-end autonomous driving, leveraging Unity for data collection and simulation.
+- Utilized **ResNet50** to predict steering angles and control parameters from real-time images, and implemented **YOLOv8** to detect vehicles for enhanced navigation in complex environments.
+- Validated that the integrated control module of these networks enabled smooth and reliable driving in the simulated environment.
+
+### Semantic Segmentation with Self-Supervised Learning
+*Course Project, TUM Info9 - Computer Vision Group*  
+*04.2023 - 09.2023*
+
 - Conducted an object segmentation project using binary class semantic segmentation, employing pretrained embeddings and self-supervision techniques.
-- Enhanced segmentation accuracy with pixel-adaptive convolutional nets and DINO self-supervised Vision Transformers for powerful image representation.
-- Applied advanced upsampling and segmentation methods to improve low-resolution image detail, showcasing deep learning proficiency.
+- Enhanced segmentation accuracy with pixel-adaptive convolutional nets and DINO self-supervised Vision Transformers.
 
-### Design and Dynamics Analysis of Auxiliary Belt Transmission System (JLU SMAE)
-**Bachelor Thesis**  
-*08.2019 - 06.2020*  
-- Developed a general-purpose static layout design software for belt drive system based on excel using VBA programming.
+### Design and Dynamics Analysis of Auxiliary Belt Transmission System
+*Bachelor Thesis, JLU SMAE*  
+*08.2019 - 06.2020*
+
+- Developed a general-purpose static layout design software for belt drive system using **VBA** programming.
 - Rated as excellent graduation thesis.
 
-### Automatic Mobile Phone Film Sticking Machine (JLU SMAE)
-**Innovative Entrepreneurial Program**  
-*09.2018 - 06.2019*  
+### Automatic Mobile Phone Film Sticking Machine
+*Innovative Entrepreneurial Program, JLU SMAE*  
+*09.2018 - 06.2019*
+
 - Produced an automatic mobile phone film sticking machine.
-- Obtained a patent, and published a paper on Science and Technology Vision.
-- Prized as the second prize in Jilin Province.
+- Obtained a patent, and published a paper in Science and Technology Vision.
+- Awarded the second prize in Jilin Province.
 
 ## Professional Experience
 
-### ZhangMen, China
-**Physics and Mathematics Tutor**  
-*09.2020 - 10.2021*  
+### Physics and Mathematics Tutor, ZhangMen (China)
+*09.2020 - 10.2021*
+
 - Conducted personalized tutoring sessions, enhancing high school students' understanding of physics and mathematics.
 
+## Skills
 
-
+- **Programming Languages and Operation Systems**: Python, VBA, C++, C, MacOS, Linux, Windows
+- **Technical Tools**: Git, Docker, Jekyll, LaTeX, PyTorch, Jupyter Notebook, Pandas, NumPy
+- **Languages**: Chinese (Native Speaker), English (C1), German (B2)
