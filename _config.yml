@@ -48,7 +48,7 @@ include: ["_pages", "_assets","_sass","assets"]
 date_format: "%Y-%m-%d"
 author:
   name: "Shihong Zhang"
-  avatar: "/_assets/images/3b92c8ba6667f33807e3015cff6443d.jpg"
+  avatar: "/_assets/images/2447323c1d3098fa180744d897e07ba.jpg"
   bio: "" # Note: Markdown is allowed
   location: "Munich Germany"
   links:
